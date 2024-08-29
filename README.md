@@ -1,1 +1,1 @@
-# PC-Parts-Classification
+In PC-Parts-Classification, resnet-18 model.
